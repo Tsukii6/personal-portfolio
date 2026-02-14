@@ -1,22 +1,22 @@
 const projects = [
   {
-    title: "Project One",
-    description: "A brief description of Project One.",
-    tags: ["React", "Node.js", "MongoDB"],
+    title: "Habit Tracker",
+    description: "A web application that helps users track and manage their daily habits. It allows users to set goals, monitor progress, and receive insights on their habit-building journey.",
+    tags: ["HTML","CSS","JavaScript", "Node.js", "MongoDB"],
     link: "#",
     github: "#"
   },
   {
-    title: "Project Two",
-    description: "A brief description of Project Two.",
-    tags: ["Vue.js", "Express", "PostgreSQL"],
+    title: "Quiz App",
+    description: "A web application that allows users to create and take quizzes on various topics.",
+    tags: ["HTML","CSS","JavaScript", "Node.js", "MySQL"],
     link: "#",
     github: "#"
   },
   {
-    title: "Project Three",
-    description: "A brief description of Project Three.",
-    tags: ["Angular", "Firebase", "TypeScript"],
+    title: "Cozy Game",
+    description: "A cozy game built with React and TypeScript, designed to provide a relaxing and enjoyable gaming experience. The game features pixel art, calming music, and simple gameplay mechanics that allow players to unwind and escape from the stresses of everyday life.",
+    tags: ["HTML","CSS","React", "TypeScript"],
     link: "#",
     github: "#"
   }
